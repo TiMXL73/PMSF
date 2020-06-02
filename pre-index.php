@@ -98,7 +98,7 @@ if (strtolower($map) === "rdm") {
         }
         echo '<div class="pokemon-list-cont" id="pokemon-list-cont-' . $num . '">
         <input type="hidden" class="search-number" value="' . $num . '" />
-        <input class="search search-input" placeholder="' . i8ln("Search Name, ID & Type") . '" />
+        <input class="search search-input" onfocus="this.select();" placeholder="' . i8ln("Search Name, ID & Type") . '" />
         <div class="pokemon-list list">';
         $i = 0;
         $z = 0;
