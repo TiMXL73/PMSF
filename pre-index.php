@@ -577,7 +577,7 @@ if (!$noLoadingScreen) {
                                             <div class="pokemon-container">
                                                 <input id="exclude-pokemon" type="text" readonly="true">
                                                 <?php
-                                                pokemonFilterImages($noPokemonNumbers, '', [], 2); ?>
+                                                pokemonFilterImages($noPokemonNumbers, '', $pokemonToExclude, 2); ?>
                                             </div>
                                             <a href="#" class="select-all"><?php echo i8ln('All') ?>
                                                 <div>
@@ -596,7 +596,7 @@ if (!$noLoadingScreen) {
                                             <div class="pokemon-container">
                                                 <input id="exclude-min-iv" type="text" readonly="true">
                                                 <?php
-                                                pokemonFilterImages($noPokemonNumbers, '', [], 3); ?>
+                                                pokemonFilterImages($noPokemonNumbers, '', $pokemonToExclude, 3); ?>
                                             </div>
                                             <a href="#" class="select-all"><?php echo i8ln('All') ?>
                                                 <div>
@@ -1331,7 +1331,7 @@ if (!$noLoadingScreen) {
                         <h3 class="notify-pokemon-tab"><?php echo i8ln('Notify of Pokémon'); ?></h3>
                         <div style="max-height:165px;overflow-y:auto;">
                             <input id="notify-pokemon" type="text" readonly="true"/>
-                            <?php pokemonFilterImages($noPokemonNumbers, '', [], 4); ?>
+                            <?php pokemonFilterImages($noPokemonNumbers, '', $pokemonToExclude, 4); ?>
                         </div>
                         <a href="#" class="select-all notify-pokemon-button"><?php echo i8ln('All'); ?></a>
                         <a href="#" class="hide-all notify-pokemon-button"><?php echo i8ln('None'); ?></a>
