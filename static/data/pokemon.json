@@ -1819,8 +1819,64 @@
         ]
       },
       {
+        "nameform": "Flying 5th anniv",
+        "protoform": "2678",
+        "assetsform": "00",
+        "baseStamina": 111,
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          }
+        ]
+      },
+      {
+        "nameform": "Kariyushi",
+        "protoform": "2675",
+        "assetsform": "00",
+        "baseStamina": 111,
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          }
+        ]
+      },
+      {
         "nameform": "Normal",
         "protoform": "598",
+        "assetsform": "00",
+        "baseStamina": 111,
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          }
+        ]
+      },
+      {
+        "nameform": "Pop star",
+        "protoform": "2676",
+        "assetsform": "00",
+        "baseStamina": 111,
+        "baseAttack": 112,
+        "baseDefense": 96,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          }
+        ]
+      },
+      {
+        "nameform": "Rock star",
+        "protoform": "2677",
         "assetsform": "00",
         "baseStamina": 111,
         "baseAttack": 112,
@@ -5503,8 +5559,8 @@
     ],
     "forms": [
       {
-        "nameform": "Galarian",
-        "protoform": "2582",
+        "nameform": "2020",
+        "protoform": "2673",
         "assetsform": "00",
         "baseStamina": 207,
         "baseAttack": 109,
@@ -5521,17 +5577,13 @@
         ]
       },
       {
-        "nameform": "2020",
-        "protoform": "2673",
+        "nameform": "Galarian",
+        "protoform": "2582",
         "assetsform": "00",
         "baseStamina": 207,
         "baseAttack": 109,
         "baseDefense": 98,
         "formtypes": [
-          {
-            "type": "Water",
-            "color": "#6890f0"
-          },
           {
             "type": "Psychic",
             "color": "#f85888"
@@ -5612,8 +5664,8 @@
     ],
     "forms": [
       {
-        "nameform": "Galarian",
-        "protoform": "2583",
+        "nameform": "2021",
+        "protoform": "2674",
         "assetsform": "00",
         "baseStamina": 216,
         "baseAttack": 177,
@@ -5630,16 +5682,16 @@
         ]
       },
       {
-        "nameform": "2021",
-        "protoform": "2674",
+        "nameform": "Galarian",
+        "protoform": "2583",
         "assetsform": "00",
         "baseStamina": 216,
-        "baseAttack": 177,
-        "baseDefense": 180,
+        "baseAttack": 182,
+        "baseDefense": 156,
         "formtypes": [
           {
-            "type": "Water",
-            "color": "#6890f0"
+            "type": "Poison",
+            "color": "#a040a0"
           },
           {
             "type": "Psychic",
@@ -7992,8 +8044,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1060",
+        "nameform": "Purified",
+        "protoform": "1061",
         "assetsform": "00",
         "baseStamina": 163,
         "baseAttack": 183,
@@ -8006,8 +8058,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1061",
+        "nameform": "Shadow",
+        "protoform": "1060",
         "assetsform": "00",
         "baseStamina": 163,
         "baseAttack": 183,
@@ -8106,8 +8158,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1063",
+        "nameform": "Purified",
+        "protoform": "1064",
         "assetsform": "00",
         "baseStamina": 102,
         "baseAttack": 129,
@@ -8120,8 +8172,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1064",
+        "nameform": "Shadow",
+        "protoform": "1063",
         "assetsform": "00",
         "baseStamina": 102,
         "baseAttack": 129,
@@ -8163,8 +8215,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1066",
+        "nameform": "Purified",
+        "protoform": "1067",
         "assetsform": "00",
         "baseStamina": 146,
         "baseAttack": 187,
@@ -8177,8 +8229,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1067",
+        "nameform": "Shadow",
+        "protoform": "1066",
         "assetsform": "00",
         "baseStamina": 146,
         "baseAttack": 187,
@@ -13491,12 +13543,12 @@
         "protoform": "2584",
         "assetsform": "00",
         "baseStamina": 216,
-        "baseAttack": 177,
+        "baseAttack": 190,
         "baseDefense": 180,
         "formtypes": [
           {
-            "type": "Water",
-            "color": "#6890f0"
+            "type": "Poison",
+            "color": "#a040a0"
           },
           {
             "type": "Psychic",
@@ -14529,8 +14581,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1254",
+        "nameform": "Purified",
+        "protoform": "1255",
         "assetsform": "00",
         "baseStamina": 155,
         "baseAttack": 137,
@@ -14543,8 +14595,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1255",
+        "nameform": "Shadow",
+        "protoform": "1254",
         "assetsform": "00",
         "baseStamina": 155,
         "baseAttack": 137,
@@ -14586,8 +14638,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1257",
+        "nameform": "Purified",
+        "protoform": "1258",
         "assetsform": "00",
         "baseStamina": 207,
         "baseAttack": 212,
@@ -14600,8 +14652,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1258",
+        "nameform": "Shadow",
+        "protoform": "1257",
         "assetsform": "00",
         "baseStamina": 207,
         "baseAttack": 212,
@@ -15994,8 +16046,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1299",
+        "nameform": "Purified",
+        "protoform": "1300",
         "assetsform": "00",
         "baseStamina": 181,
         "baseAttack": 194,
@@ -16012,8 +16064,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1300",
+        "nameform": "Shadow",
+        "protoform": "1299",
         "assetsform": "00",
         "baseStamina": 181,
         "baseAttack": 194,
@@ -17230,8 +17282,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1344",
+        "nameform": "Purified",
+        "protoform": "1345",
         "assetsform": "00",
         "baseStamina": 214,
         "baseAttack": 239,
@@ -17248,8 +17300,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1345",
+        "nameform": "Shadow",
+        "protoform": "1344",
         "assetsform": "00",
         "baseStamina": 214,
         "baseAttack": 239,
@@ -17539,8 +17591,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1359",
+        "nameform": "Purified",
+        "protoform": "1360",
         "assetsform": "00",
         "baseStamina": 128,
         "baseAttack": 130,
@@ -17553,8 +17605,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1360",
+        "nameform": "Shadow",
+        "protoform": "1359",
         "assetsform": "00",
         "baseStamina": 128,
         "baseAttack": 130,
@@ -17604,8 +17656,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1362",
+        "nameform": "Purified",
+        "protoform": "1363",
         "assetsform": "00",
         "baseStamina": 155,
         "baseAttack": 163,
@@ -17622,8 +17674,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1363",
+        "nameform": "Shadow",
+        "protoform": "1362",
         "assetsform": "00",
         "baseStamina": 155,
         "baseAttack": 163,
@@ -17677,8 +17729,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1365",
+        "nameform": "Purified",
+        "protoform": "1366",
         "assetsform": "00",
         "baseStamina": 190,
         "baseAttack": 240,
@@ -17695,8 +17747,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1366",
+        "nameform": "Shadow",
+        "protoform": "1365",
         "assetsform": "00",
         "baseStamina": 190,
         "baseAttack": 240,
@@ -17945,8 +17997,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1368",
+        "nameform": "Purified",
+        "protoform": "1369",
         "assetsform": "00",
         "baseStamina": 111,
         "baseAttack": 96,
@@ -17959,8 +18011,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1369",
+        "nameform": "Shadow",
+        "protoform": "1368",
         "assetsform": "00",
         "baseStamina": 111,
         "baseAttack": 96,
@@ -18002,8 +18054,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1371",
+        "nameform": "Purified",
+        "protoform": "1372",
         "assetsform": "00",
         "baseStamina": 172,
         "baseAttack": 171,
@@ -18016,8 +18068,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1372",
+        "nameform": "Shadow",
+        "protoform": "1371",
         "assetsform": "00",
         "baseStamina": 172,
         "baseAttack": 171,
@@ -20310,8 +20362,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1452",
+        "nameform": "Purified",
+        "protoform": "1453",
         "assetsform": "00",
         "baseStamina": 176,
         "baseAttack": 99,
@@ -20324,8 +20376,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1453",
+        "nameform": "Shadow",
+        "protoform": "1452",
         "assetsform": "00",
         "baseStamina": 176,
         "baseAttack": 99,
@@ -20367,8 +20419,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1455",
+        "nameform": "Purified",
+        "protoform": "1456",
         "assetsform": "00",
         "baseStamina": 302,
         "baseAttack": 209,
@@ -20381,8 +20433,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1456",
+        "nameform": "Shadow",
+        "protoform": "1455",
         "assetsform": "00",
         "baseStamina": 302,
         "baseAttack": 209,
@@ -21215,8 +21267,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1485",
+        "nameform": "Purified",
+        "protoform": "1486",
         "assetsform": "00",
         "baseStamina": 120,
         "baseAttack": 123,
@@ -21229,8 +21281,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1486",
+        "nameform": "Shadow",
+        "protoform": "1485",
         "assetsform": "00",
         "baseStamina": 120,
         "baseAttack": 123,
@@ -21272,8 +21324,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1488",
+        "nameform": "Purified",
+        "protoform": "1489",
         "assetsform": "00",
         "baseStamina": 172,
         "baseAttack": 215,
@@ -21286,8 +21338,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1489",
+        "nameform": "Shadow",
+        "protoform": "1488",
         "assetsform": "00",
         "baseStamina": 172,
         "baseAttack": 215,
@@ -27056,8 +27108,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1659",
+        "nameform": "Purified",
+        "protoform": "1660",
         "assetsform": "00",
         "baseStamina": 120,
         "baseAttack": 101,
@@ -27074,8 +27126,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1660",
+        "nameform": "Shadow",
+        "protoform": "1659",
         "assetsform": "00",
         "baseStamina": 120,
         "baseAttack": 101,
@@ -27129,8 +27181,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1662",
+        "nameform": "Purified",
+        "protoform": "1663",
         "assetsform": "00",
         "baseStamina": 146,
         "baseAttack": 142,
@@ -27147,8 +27199,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1663",
+        "nameform": "Shadow",
+        "protoform": "1662",
         "assetsform": "00",
         "baseStamina": 146,
         "baseAttack": 142,
@@ -27202,8 +27254,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1665",
+        "nameform": "Purified",
+        "protoform": "1666",
         "assetsform": "00",
         "baseStamina": 198,
         "baseAttack": 234,
@@ -27220,8 +27272,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1666",
+        "nameform": "Shadow",
+        "protoform": "1665",
         "assetsform": "00",
         "baseStamina": 198,
         "baseAttack": 234,
@@ -27267,8 +27319,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1668",
+        "nameform": "Purified",
+        "protoform": "1669",
         "assetsform": "00",
         "baseStamina": 153,
         "baseAttack": 80,
@@ -27281,8 +27333,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1669",
+        "nameform": "Shadow",
+        "protoform": "1668",
         "assetsform": "00",
         "baseStamina": 153,
         "baseAttack": 80,
@@ -27332,8 +27384,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1671",
+        "nameform": "Purified",
+        "protoform": "1672",
         "assetsform": "00",
         "baseStamina": 188,
         "baseAttack": 162,
@@ -27350,8 +27402,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1672",
+        "nameform": "Shadow",
+        "protoform": "1671",
         "assetsform": "00",
         "baseStamina": 188,
         "baseAttack": 162,
@@ -30811,8 +30863,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1797",
+        "nameform": "Purified",
+        "protoform": "1798",
         "assetsform": "00",
         "baseStamina": 120,
         "baseAttack": 93,
@@ -30829,8 +30881,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1798",
+        "nameform": "Shadow",
+        "protoform": "1797",
         "assetsform": "00",
         "baseStamina": 120,
         "baseAttack": 93,
@@ -30884,8 +30936,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1800",
+        "nameform": "Purified",
+        "protoform": "1801",
         "assetsform": "00",
         "baseStamina": 172,
         "baseAttack": 180,
@@ -30902,8 +30954,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1801",
+        "nameform": "Shadow",
+        "protoform": "1800",
         "assetsform": "00",
         "baseStamina": 172,
         "baseAttack": 180,
@@ -31761,8 +31813,8 @@
         ]
       },
       {
-        "nameform": "Shadow",
-        "protoform": "1824",
+        "nameform": "Purified",
+        "protoform": "1825",
         "assetsform": "00",
         "baseStamina": 225,
         "baseAttack": 207,
@@ -31775,8 +31827,8 @@
         ]
       },
       {
-        "nameform": "Purified",
-        "protoform": "1825",
+        "nameform": "Shadow",
+        "protoform": "1824",
         "assetsform": "00",
         "baseStamina": 225,
         "baseAttack": 207,
@@ -45092,50 +45144,8 @@
     ],
     "forms": [
       {
-        "nameform": "Natural",
-        "protoform": "2629",
-        "assetsform": "00",
-        "baseStamina": 181,
-        "baseAttack": 164,
-        "baseDefense": 167,
-        "formtypes": [
-          {
-            "type": "Normal",
-            "color": "#8a8a59"
-          }
-        ]
-      },
-      {
-        "nameform": "Heart",
-        "protoform": "2630",
-        "assetsform": "00",
-        "baseStamina": 181,
-        "baseAttack": 164,
-        "baseDefense": 167,
-        "formtypes": [
-          {
-            "type": "Normal",
-            "color": "#8a8a59"
-          }
-        ]
-      },
-      {
-        "nameform": "Star",
-        "protoform": "2631",
-        "assetsform": "00",
-        "baseStamina": 181,
-        "baseAttack": 164,
-        "baseDefense": 167,
-        "formtypes": [
-          {
-            "type": "Normal",
-            "color": "#8a8a59"
-          }
-        ]
-      },
-      {
-        "nameform": "Diamond",
-        "protoform": "2632",
+        "nameform": "Dandy",
+        "protoform": "2635",
         "assetsform": "00",
         "baseStamina": 181,
         "baseAttack": 164,
@@ -45162,8 +45172,8 @@
         ]
       },
       {
-        "nameform": "Matron",
-        "protoform": "2634",
+        "nameform": "Diamond",
+        "protoform": "2632",
         "assetsform": "00",
         "baseStamina": 181,
         "baseAttack": 164,
@@ -45176,22 +45186,8 @@
         ]
       },
       {
-        "nameform": "Dandy",
-        "protoform": "2635",
-        "assetsform": "00",
-        "baseStamina": 181,
-        "baseAttack": 164,
-        "baseDefense": 167,
-        "formtypes": [
-          {
-            "type": "Normal",
-            "color": "#8a8a59"
-          }
-        ]
-      },
-      {
-        "nameform": "La reine",
-        "protoform": "2636",
+        "nameform": "Heart",
+        "protoform": "2630",
         "assetsform": "00",
         "baseStamina": 181,
         "baseAttack": 164,
@@ -45218,8 +45214,64 @@
         ]
       },
       {
+        "nameform": "La reine",
+        "protoform": "2636",
+        "assetsform": "00",
+        "baseStamina": 181,
+        "baseAttack": 164,
+        "baseDefense": 167,
+        "formtypes": [
+          {
+            "type": "Normal",
+            "color": "#8a8a59"
+          }
+        ]
+      },
+      {
+        "nameform": "Matron",
+        "protoform": "2634",
+        "assetsform": "00",
+        "baseStamina": 181,
+        "baseAttack": 164,
+        "baseDefense": 167,
+        "formtypes": [
+          {
+            "type": "Normal",
+            "color": "#8a8a59"
+          }
+        ]
+      },
+      {
+        "nameform": "Natural",
+        "protoform": "2629",
+        "assetsform": "00",
+        "baseStamina": 181,
+        "baseAttack": 164,
+        "baseDefense": 167,
+        "formtypes": [
+          {
+            "type": "Normal",
+            "color": "#8a8a59"
+          }
+        ]
+      },
+      {
         "nameform": "Pharaoh",
         "protoform": "2638",
+        "assetsform": "00",
+        "baseStamina": 181,
+        "baseAttack": 164,
+        "baseDefense": 167,
+        "formtypes": [
+          {
+            "type": "Normal",
+            "color": "#8a8a59"
+          }
+        ]
+      },
+      {
+        "nameform": "Star",
+        "protoform": "2631",
         "assetsform": "00",
         "baseStamina": 181,
         "baseAttack": 164,
@@ -45817,9 +45869,9 @@
   "710": {
     "name": "Pumpkaboo",
     "rarity": "",
-    "baseStamina": 0,
-    "baseAttack": 0,
-    "baseDefense": 0,
+    "baseStamina": 135,
+    "baseAttack": 121,
+    "baseDefense": 123,
     "types": [
       {
         "type": "Ghost",
@@ -45835,9 +45887,9 @@
         "nameform": "Small",
         "protoform": "2641",
         "assetsform": "00",
-        "baseStamina": 0,
-        "baseAttack": 0,
-        "baseDefense": 0,
+        "baseStamina": 135,
+        "baseAttack": 121,
+        "baseDefense": 123,
         "formtypes": [
           {
             "type": "Ghost",
@@ -45853,9 +45905,9 @@
         "nameform": "Average",
         "protoform": "2642",
         "assetsform": "00",
-        "baseStamina": 0,
-        "baseAttack": 0,
-        "baseDefense": 0,
+        "baseStamina": 135,
+        "baseAttack": 121,
+        "baseDefense": 123,
         "formtypes": [
           {
             "type": "Ghost",
@@ -45871,9 +45923,9 @@
         "nameform": "Large",
         "protoform": "2643",
         "assetsform": "00",
-        "baseStamina": 0,
-        "baseAttack": 0,
-        "baseDefense": 0,
+        "baseStamina": 135,
+        "baseAttack": 121,
+        "baseDefense": 123,
         "formtypes": [
           {
             "type": "Ghost",
@@ -45889,9 +45941,9 @@
         "nameform": "Super",
         "protoform": "2644",
         "assetsform": "00",
-        "baseStamina": 0,
-        "baseAttack": 0,
-        "baseDefense": 0,
+        "baseStamina": 135,
+        "baseAttack": 121,
+        "baseDefense": 123,
         "formtypes": [
           {
             "type": "Ghost",
@@ -45908,9 +45960,9 @@
   "711": {
     "name": "Gourgeist",
     "rarity": "",
-    "baseStamina": 0,
-    "baseAttack": 0,
-    "baseDefense": 0,
+    "baseStamina": 163,
+    "baseAttack": 175,
+    "baseDefense": 213,
     "types": [
       {
         "type": "Ghost",
@@ -45926,9 +45978,9 @@
         "nameform": "Small",
         "protoform": "2645",
         "assetsform": "00",
-        "baseStamina": 0,
-        "baseAttack": 0,
-        "baseDefense": 0,
+        "baseStamina": 163,
+        "baseAttack": 175,
+        "baseDefense": 213,
         "formtypes": [
           {
             "type": "Ghost",
@@ -45944,9 +45996,9 @@
         "nameform": "Average",
         "protoform": "2646",
         "assetsform": "00",
-        "baseStamina": 0,
-        "baseAttack": 0,
-        "baseDefense": 0,
+        "baseStamina": 163,
+        "baseAttack": 175,
+        "baseDefense": 213,
         "formtypes": [
           {
             "type": "Ghost",
@@ -45962,9 +46014,9 @@
         "nameform": "Large",
         "protoform": "2647",
         "assetsform": "00",
-        "baseStamina": 0,
-        "baseAttack": 0,
-        "baseDefense": 0,
+        "baseStamina": 163,
+        "baseAttack": 175,
+        "baseDefense": 213,
         "formtypes": [
           {
             "type": "Ghost",
@@ -45980,9 +46032,9 @@
         "nameform": "Super",
         "protoform": "2648",
         "assetsform": "00",
-        "baseStamina": 0,
-        "baseAttack": 0,
-        "baseDefense": 0,
+        "baseStamina": 163,
+        "baseAttack": 175,
+        "baseDefense": 213,
         "formtypes": [
           {
             "type": "Ghost",
@@ -46059,9 +46111,9 @@
   "716": {
     "name": "Xerneas",
     "rarity": "",
-    "baseStamina": 270,
-    "baseAttack": 275,
-    "baseDefense": 203,
+    "baseStamina": 246,
+    "baseAttack": 250,
+    "baseDefense": 185,
     "types": [
       {
         "type": "Fairy",
@@ -46073,9 +46125,9 @@
         "nameform": "Neutral",
         "protoform": "2649",
         "assetsform": "00",
-        "baseStamina": 270,
-        "baseAttack": 275,
-        "baseDefense": 203,
+        "baseStamina": 246,
+        "baseAttack": 250,
+        "baseDefense": 185,
         "formtypes": [
           {
             "type": "Fairy",
@@ -46087,9 +46139,9 @@
         "nameform": "Active",
         "protoform": "2650",
         "assetsform": "00",
-        "baseStamina": 270,
-        "baseAttack": 275,
-        "baseDefense": 203,
+        "baseStamina": 246,
+        "baseAttack": 250,
+        "baseDefense": 185,
         "formtypes": [
           {
             "type": "Fairy",
@@ -46102,9 +46154,9 @@
   "717": {
     "name": "Yveltal",
     "rarity": "",
-    "baseStamina": 270,
-    "baseAttack": 275,
-    "baseDefense": 203,
+    "baseStamina": 246,
+    "baseAttack": 250,
+    "baseDefense": 185,
     "types": [
       {
         "type": "Dark",
@@ -46117,7 +46169,7 @@
     ]
   },
   "718": {
-    "name": "Yveltal",
+    "name": "Zygarde",
     "rarity": "",
     "baseStamina": 0,
     "baseAttack": 0,
@@ -46130,6 +46182,62 @@
       {
         "type": "Ground",
         "color": "#e0c068"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Ten percent",
+        "protoform": "2591",
+        "assetsform": "00",
+        "baseStamina": 0,
+        "baseAttack": 0,
+        "baseDefense": 0,
+        "formtypes": [
+          {
+            "type": "Dragon",
+            "color": "#7038f8"
+          },
+          {
+            "type": "Ground",
+            "color": "#e0c068"
+          }
+        ]
+      },
+      {
+        "nameform": "Fifty percent",
+        "protoform": "2592",
+        "assetsform": "00",
+        "baseStamina": 0,
+        "baseAttack": 0,
+        "baseDefense": 0,
+        "formtypes": [
+          {
+            "type": "Dragon",
+            "color": "#7038f8"
+          },
+          {
+            "type": "Ground",
+            "color": "#e0c068"
+          }
+        ]
+      },
+      {
+        "nameform": "Complete",
+        "protoform": "2593",
+        "assetsform": "00",
+        "baseStamina": 0,
+        "baseAttack": 0,
+        "baseDefense": 0,
+        "formtypes": [
+          {
+            "type": "Dragon",
+            "color": "#7038f8"
+          },
+          {
+            "type": "Ground",
+            "color": "#e0c068"
+          }
+        ]
       }
     ]
   },
