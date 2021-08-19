@@ -46241,6 +46241,95 @@
       }
     ]
   },
+  "719": {
+    "name": "Diancie",
+    "rarity": "",
+    "baseStamina": 137,
+    "baseAttack": 190,
+    "baseDefense": 285,
+    "types": [
+      {
+        "type": "Rock",
+        "color": "#b8a038"
+      },
+      {
+        "type": "Fairy",
+        "color": "#e898e8"
+      }
+    ]
+  },
+  "720": {
+    "name": "Hoopa",
+    "rarity": "",
+    "baseStamina": 173,
+    "baseAttack": 261,
+    "baseDefense": 187,
+    "types": [
+      {
+        "type": "Psychic",
+        "color": "#f85888"
+      },
+      {
+        "type": "Ghost",
+        "color": "#705898"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Confined",
+        "protoform": "2651",
+        "assetsform": "00",
+        "baseStamina": 173,
+        "baseAttack": 261,
+        "baseDefense": 187,
+        "formtypes": [
+          {
+            "type": "Psychic",
+            "color": "#f85888"
+          },
+          {
+            "type": "Ghost",
+            "color": "#705898"
+          }
+        ]
+      },
+      {
+        "nameform": "Unbound",
+        "protoform": "2652",
+        "assetsform": "00",
+        "baseStamina": 173,
+        "baseAttack": 311,
+        "baseDefense": 191,
+        "formtypes": [
+          {
+            "type": "Psychic",
+            "color": "#f85888"
+          },
+          {
+            "type": "Dark",
+            "color": "#707070"
+          }
+        ]
+      }
+    ]
+  },
+  "721": {
+    "name": "Volcanion",
+    "rarity": "",
+    "baseStamina": 190,
+    "baseAttack": 252,
+    "baseDefense": 216,
+    "types": [
+      {
+        "type": "Fire",
+        "color": "#f08030"
+      },
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      }
+    ]
+  },
   "808": {
     "name": "Meltan",
     "rarity": "",
@@ -46352,6 +46441,852 @@
             "color": "#b8b8d0"
           }
         ]
+      }
+    ]
+  },
+  "810": {
+    "name": "Grookey",
+    "rarity": "",
+    "baseStamina": 137,
+    "baseAttack": 122,
+    "baseDefense": 91,
+    "types": [
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      }
+    ]
+  },
+  "811": {
+    "name": "Thwackey",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 165,
+    "baseDefense": 134,
+    "types": [
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      }
+    ]
+  },
+  "812": {
+    "name": "Rillaboom",
+    "rarity": "",
+    "baseStamina": 225,
+    "baseAttack": 239,
+    "baseDefense": 168,
+    "types": [
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      }
+    ]
+  },
+  "813": {
+    "name": "Scorbunny",
+    "rarity": "",
+    "baseStamina": 137,
+    "baseAttack": 132,
+    "baseDefense": 79,
+    "types": [
+      {
+        "type": "Fire",
+        "color": "#f08030"
+      }
+    ]
+  },
+  "814": {
+    "name": "Raboot",
+    "rarity": "",
+    "baseStamina": 163,
+    "baseAttack": 170,
+    "baseDefense": 125,
+    "types": [
+      {
+        "type": "Fire",
+        "color": "#f08030"
+      }
+    ]
+  },
+  "815": {
+    "name": "Cinderace",
+    "rarity": "",
+    "baseStamina": 190,
+    "baseAttack": 238,
+    "baseDefense": 163,
+    "types": [
+      {
+        "type": "Fire",
+        "color": "#f08030"
+      }
+    ]
+  },
+  "816": {
+    "name": "Sobble",
+    "rarity": "",
+    "baseStamina": 137,
+    "baseAttack": 132,
+    "baseDefense": 79,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      }
+    ]
+  },
+  "817": {
+    "name": "Drizzile",
+    "rarity": "",
+    "baseStamina": 163,
+    "baseAttack": 186,
+    "baseDefense": 113,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      }
+    ]
+  },
+  "818": {
+    "name": "Inteleon",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 262,
+    "baseDefense": 142,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      }
+    ]
+  },
+  "819": {
+    "name": "Skwovet",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 95,
+    "baseDefense": 86,
+    "types": [
+      {
+        "type": "Normal",
+        "color": "#8a8a59"
+      }
+    ]
+  },
+  "820": {
+    "name": "Greedent",
+    "rarity": "",
+    "baseStamina": 260,
+    "baseAttack": 160,
+    "baseDefense": 156,
+    "types": [
+      {
+        "type": "Normal",
+        "color": "#8a8a59"
+      }
+    ]
+  },
+  "821": {
+    "name": "Rookidee",
+    "rarity": "",
+    "baseStamina": 116,
+    "baseAttack": 88,
+    "baseDefense": 67,
+    "types": [
+      {
+        "type": "Flying",
+        "color": "#a890f0"
+      }
+    ]
+  },
+  "822": {
+    "name": "Corvisquire",
+    "rarity": "",
+    "baseStamina": 169,
+    "baseAttack": 129,
+    "baseDefense": 110,
+    "types": [
+      {
+        "type": "Flying",
+        "color": "#a890f0"
+      }
+    ]
+  },
+  "823": {
+    "name": "Corviknight",
+    "rarity": "",
+    "baseStamina": 221,
+    "baseAttack": 163,
+    "baseDefense": 192,
+    "types": [
+      {
+        "type": "Flying",
+        "color": "#a890f0"
+      },
+      {
+        "type": "Steel",
+        "color": "#b8b8d0"
+      }
+    ]
+  },
+  "824": {
+    "name": "Blipbug",
+    "rarity": "",
+    "baseStamina": 93,
+    "baseAttack": 46,
+    "baseDefense": 67,
+    "types": [
+      {
+        "type": "Bug",
+        "color": "#a8b820"
+      }
+    ]
+  },
+  "825": {
+    "name": "Dottler",
+    "rarity": "",
+    "baseStamina": 137,
+    "baseAttack": 87,
+    "baseDefense": 157,
+    "types": [
+      {
+        "type": "Bug",
+        "color": "#a8b820"
+      },
+      {
+        "type": "Psychic",
+        "color": "#f85888"
+      }
+    ]
+  },
+  "826": {
+    "name": "Orbeetle",
+    "rarity": "",
+    "baseStamina": 155,
+    "baseAttack": 156,
+    "baseDefense": 240,
+    "types": [
+      {
+        "type": "Bug",
+        "color": "#a8b820"
+      },
+      {
+        "type": "Psychic",
+        "color": "#f85888"
+      }
+    ]
+  },
+  "827": {
+    "name": "Nickit",
+    "rarity": "",
+    "baseStamina": 120,
+    "baseAttack": 85,
+    "baseDefense": 82,
+    "types": [
+      {
+        "type": "Dark",
+        "color": "#707070"
+      }
+    ]
+  },
+  "828": {
+    "name": "Thievul",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 172,
+    "baseDefense": 164,
+    "types": [
+      {
+        "type": "Dark",
+        "color": "#707070"
+      }
+    ]
+  },
+  "829": {
+    "name": "Gossifleur",
+    "rarity": "",
+    "baseStamina": 120,
+    "baseAttack": 70,
+    "baseDefense": 104,
+    "types": [
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      }
+    ]
+  },
+  "830": {
+    "name": "Eldegoss",
+    "rarity": "",
+    "baseStamina": 155,
+    "baseAttack": 148,
+    "baseDefense": 211,
+    "types": [
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      }
+    ]
+  },
+  "831": {
+    "name": "Wooloo",
+    "rarity": "",
+    "baseStamina": 123,
+    "baseAttack": 76,
+    "baseDefense": 97,
+    "types": [
+      {
+        "type": "Normal",
+        "color": "#8a8a59"
+      }
+    ]
+  },
+  "832": {
+    "name": "Dubwool",
+    "rarity": "",
+    "baseStamina": 176,
+    "baseAttack": 159,
+    "baseDefense": 198,
+    "types": [
+      {
+        "type": "Normal",
+        "color": "#8a8a59"
+      }
+    ]
+  },
+  "833": {
+    "name": "Chewtle",
+    "rarity": "",
+    "baseStamina": 137,
+    "baseAttack": 114,
+    "baseDefense": 85,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      }
+    ]
+  },
+  "834": {
+    "name": "Drednaw",
+    "rarity": "",
+    "baseStamina": 207,
+    "baseAttack": 213,
+    "baseDefense": 164,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      },
+      {
+        "type": "Rock",
+        "color": "#b8a038"
+      }
+    ]
+  },
+  "835": {
+    "name": "Yamper",
+    "rarity": "",
+    "baseStamina": 153,
+    "baseAttack": 80,
+    "baseDefense": 90,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      }
+    ]
+  },
+  "836": {
+    "name": "Boltund",
+    "rarity": "",
+    "baseStamina": 170,
+    "baseAttack": 197,
+    "baseDefense": 131,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      }
+    ]
+  },
+  "837": {
+    "name": "Rolycoly",
+    "rarity": "",
+    "baseStamina": 102,
+    "baseAttack": 73,
+    "baseDefense": 91,
+    "types": [
+      {
+        "type": "Rock",
+        "color": "#b8a038"
+      }
+    ]
+  },
+  "838": {
+    "name": "Carkol",
+    "rarity": "",
+    "baseStamina": 190,
+    "baseAttack": 114,
+    "baseDefense": 157,
+    "types": [
+      {
+        "type": "Rock",
+        "color": "#b8a038"
+      },
+      {
+        "type": "Fire",
+        "color": "#f08030"
+      }
+    ]
+  },
+  "839": {
+    "name": "Coalossal",
+    "rarity": "",
+    "baseStamina": 242,
+    "baseAttack": 146,
+    "baseDefense": 198,
+    "types": [
+      {
+        "type": "Rock",
+        "color": "#b8a038"
+      },
+      {
+        "type": "Fire",
+        "color": "#f08030"
+      }
+    ]
+  },
+  "840": {
+    "name": "Applin",
+    "rarity": "",
+    "baseStamina": 120,
+    "baseAttack": 71,
+    "baseDefense": 116,
+    "types": [
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      },
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      }
+    ]
+  },
+  "841": {
+    "name": "Flapple",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 214,
+    "baseDefense": 144,
+    "types": [
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      },
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      }
+    ]
+  },
+  "842": {
+    "name": "Appletun",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 214,
+    "baseDefense": 144,
+    "types": [
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      },
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      }
+    ]
+  },
+  "843": {
+    "name": "Silicobra",
+    "rarity": "",
+    "baseStamina": 141,
+    "baseAttack": 103,
+    "baseDefense": 123,
+    "types": [
+      {
+        "type": "Ground",
+        "color": "#e0c068"
+      }
+    ]
+  },
+  "844": {
+    "name": "Sandaconda",
+    "rarity": "",
+    "baseStamina": 176,
+    "baseAttack": 202,
+    "baseDefense": 207,
+    "types": [
+      {
+        "type": "Ground",
+        "color": "#e0c068"
+      }
+    ]
+  },
+  "845": {
+    "name": "Cramorant",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 173,
+    "baseDefense": 163,
+    "types": [
+      {
+        "type": "Flying",
+        "color": "#a890f0"
+      },
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      }
+    ]
+  },
+  "846": {
+    "name": "Arrokuda",
+    "rarity": "",
+    "baseStamina": 121,
+    "baseAttack": 118,
+    "baseDefense": 72,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      }
+    ]
+  },
+  "847": {
+    "name": "Barraskewda",
+    "rarity": "",
+    "baseStamina": 156,
+    "baseAttack": 258,
+    "baseDefense": 127,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      }
+    ]
+  },
+  "848": {
+    "name": "Toxel",
+    "rarity": "",
+    "baseStamina": 120,
+    "baseAttack": 97,
+    "baseDefense": 65,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      },
+      {
+        "type": "Poison",
+        "color": "#a040a0"
+      }
+    ]
+  },
+  "849": {
+    "name": "Toxtricity",
+    "rarity": "",
+    "baseStamina": 181,
+    "baseAttack": 224,
+    "baseDefense": 140,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      },
+      {
+        "type": "Poison",
+        "color": "#a040a0"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Amped",
+        "protoform": "2464",
+        "assetsform": "00",
+        "baseStamina": 181,
+        "baseAttack": 224,
+        "baseDefense": 140,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          },
+          {
+            "type": "Poison",
+            "color": "#a040a0"
+          }
+        ]
+      },
+      {
+        "nameform": "Low key",
+        "protoform": "2463",
+        "assetsform": "00",
+        "baseStamina": 181,
+        "baseAttack": 224,
+        "baseDefense": 140,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          },
+          {
+            "type": "Poison",
+            "color": "#a040a0"
+          }
+        ]
+      }
+    ]
+  },
+  "850": {
+    "name": "Sizzlipede",
+    "rarity": "",
+    "baseStamina": 137,
+    "baseAttack": 118,
+    "baseDefense": 90,
+    "types": [
+      {
+        "type": "Fire",
+        "color": "#f08030"
+      },
+      {
+        "type": "Bug",
+        "color": "#a8b820"
+      }
+    ]
+  },
+  "851": {
+    "name": "Centiskorch",
+    "rarity": "",
+    "baseStamina": 225,
+    "baseAttack": 220,
+    "baseDefense": 158,
+    "types": [
+      {
+        "type": "Fire",
+        "color": "#f08030"
+      },
+      {
+        "type": "Bug",
+        "color": "#a8b820"
+      }
+    ]
+  },
+  "852": {
+    "name": "Clobbopus",
+    "rarity": "",
+    "baseStamina": 137,
+    "baseAttack": 121,
+    "baseDefense": 103,
+    "types": [
+      {
+        "type": "Fighting",
+        "color": "#c03028"
+      }
+    ]
+  },
+  "853": {
+    "name": "Grapploct",
+    "rarity": "",
+    "baseStamina": 190,
+    "baseAttack": 209,
+    "baseDefense": 162,
+    "types": [
+      {
+        "type": "Fighting",
+        "color": "#c03028"
+      }
+    ]
+  },
+  "854": {
+    "name": "Sinistea",
+    "rarity": "",
+    "baseStamina": 120,
+    "baseAttack": 134,
+    "baseDefense": 96,
+    "types": [
+      {
+        "type": "Ghost",
+        "color": "#705898"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Antique",
+        "protoform": "2478",
+        "assetsform": "00",
+        "baseStamina": 120,
+        "baseAttack": 134,
+        "baseDefense": 96,
+        "formtypes": [
+          {
+            "type": "Ghost",
+            "color": "#705898"
+          }
+        ]
+      },
+      {
+        "nameform": "Phony",
+        "protoform": "2477",
+        "assetsform": "00",
+        "baseStamina": 120,
+        "baseAttack": 134,
+        "baseDefense": 96,
+        "formtypes": [
+          {
+            "type": "Ghost",
+            "color": "#705898"
+          }
+        ]
+      }
+    ]
+  },
+  "855": {
+    "name": "Polteageist",
+    "rarity": "",
+    "baseStamina": 155,
+    "baseAttack": 248,
+    "baseDefense": 189,
+    "types": [
+      {
+        "type": "Ghost",
+        "color": "#705898"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Antique",
+        "protoform": "2481",
+        "assetsform": "00",
+        "baseStamina": 155,
+        "baseAttack": 248,
+        "baseDefense": 189,
+        "formtypes": [
+          {
+            "type": "Ghost",
+            "color": "#705898"
+          }
+        ]
+      },
+      {
+        "nameform": "Phony",
+        "protoform": "2480",
+        "assetsform": "00",
+        "baseStamina": 155,
+        "baseAttack": 248,
+        "baseDefense": 189,
+        "formtypes": [
+          {
+            "type": "Ghost",
+            "color": "#705898"
+          }
+        ]
+      }
+    ]
+  },
+  "856": {
+    "name": "Hatenna",
+    "rarity": "",
+    "baseStamina": 123,
+    "baseAttack": 98,
+    "baseDefense": 93,
+    "types": [
+      {
+        "type": "Psychic",
+        "color": "#f85888"
+      }
+    ]
+  },
+  "857": {
+    "name": "Hattrem",
+    "rarity": "",
+    "baseStamina": 149,
+    "baseAttack": 153,
+    "baseDefense": 133,
+    "types": [
+      {
+        "type": "Psychic",
+        "color": "#f85888"
+      }
+    ]
+  },
+  "858": {
+    "name": "Hatterene",
+    "rarity": "",
+    "baseStamina": 149,
+    "baseAttack": 237,
+    "baseDefense": 182,
+    "types": [
+      {
+        "type": "Psychic",
+        "color": "#f85888"
+      },
+      {
+        "type": "Fairy",
+        "color": "#e898e8"
+      }
+    ]
+  },
+  "859": {
+    "name": "Impidimp",
+    "rarity": "",
+    "baseStamina": 128,
+    "baseAttack": 103,
+    "baseDefense": 69,
+    "types": [
+      {
+        "type": "Dark",
+        "color": "#707070"
+      },
+      {
+        "type": "Fairy",
+        "color": "#e898e8"
+      }
+    ]
+  },
+  "860": {
+    "name": "Morgrem",
+    "rarity": "",
+    "baseStamina": 163,
+    "baseAttack": 145,
+    "baseDefense": 102,
+    "types": [
+      {
+        "type": "Dark",
+        "color": "#707070"
+      },
+      {
+        "type": "Fairy",
+        "color": "#e898e8"
+      }
+    ]
+  },
+  "861": {
+    "name": "Grimmsnarl",
+    "rarity": "",
+    "baseStamina": 216,
+    "baseAttack": 227,
+    "baseDefense": 139,
+    "types": [
+      {
+        "type": "Dark",
+        "color": "#707070"
+      },
+      {
+        "type": "Fairy",
+        "color": "#e898e8"
       }
     ]
   },
@@ -46480,6 +47415,63 @@
           {
             "type": "Steel",
             "color": "#b8b8d0"
+          }
+        ]
+      }
+    ]
+  },
+  "864": {
+    "name": "Cursola",
+    "rarity": "",
+    "baseStamina": 155,
+    "baseAttack": 253,
+    "baseDefense": 182,
+    "types": [
+      {
+        "type": "Ghost",
+        "color": "#705898"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Normal",
+        "protoform": "2507",
+        "assetsform": "00",
+        "baseStamina": 155,
+        "baseAttack": 253,
+        "baseDefense": 182,
+        "formtypes": [
+          {
+            "type": "Ghost",
+            "color": "#705898"
+          }
+        ]
+      },
+      {
+        "nameform": "Purified",
+        "protoform": "2509",
+        "assetsform": "00",
+        "baseStamina": 155,
+        "baseAttack": 253,
+        "baseDefense": 182,
+        "formtypes": [
+          {
+            "type": "Ghost",
+            "color": "#705898"
+          }
+        ]
+      },
+      {
+        "nameform": "Shadow",
+        "protoform": "2508",
+        "assetsform": "00",
+        "baseStamina": 155,
+        "baseAttack": 253,
+        "baseDefense": 182,
+        "formtypes": [
+          {
+            "type": "Ghost",
+            "color": "#705898"
           }
         ]
       }
@@ -46679,6 +47671,783 @@
           {
             "type": "Ground",
             "color": "#e0c068"
+          },
+          {
+            "type": "Ghost",
+            "color": "#705898"
+          }
+        ]
+      }
+    ]
+  },
+  "868": {
+    "name": "Milcery",
+    "rarity": "",
+    "baseStamina": 128,
+    "baseAttack": 90,
+    "baseDefense": 97,
+    "types": [
+      {
+        "type": "Fairy",
+        "color": "#e898e8"
+      }
+    ]
+  },
+  "869": {
+    "name": "Alcremie",
+    "rarity": "",
+    "baseStamina": 163,
+    "baseAttack": 203,
+    "baseDefense": 203,
+    "types": [
+      {
+        "type": "Fairy",
+        "color": "#e898e8"
+      }
+    ]
+  },
+  "870": {
+    "name": "Falinks",
+    "rarity": "",
+    "baseStamina": 163,
+    "baseAttack": 193,
+    "baseDefense": 170,
+    "types": [
+      {
+        "type": "Fighting",
+        "color": "#c03028"
+      }
+    ]
+  },
+  "871": {
+    "name": "Pincurchin",
+    "rarity": "",
+    "baseStamina": 134,
+    "baseAttack": 176,
+    "baseDefense": 161,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      }
+    ]
+  },
+  "872": {
+    "name": "Snom",
+    "rarity": "",
+    "baseStamina": 102,
+    "baseAttack": 76,
+    "baseDefense": 59,
+    "types": [
+      {
+        "type": "Ice",
+        "color": "#98d8d8"
+      },
+      {
+        "type": "Bug",
+        "color": "#a8b820"
+      }
+    ]
+  },
+  "873": {
+    "name": "Frosmoth",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 230,
+    "baseDefense": 155,
+    "types": [
+      {
+        "type": "Ice",
+        "color": "#98d8d8"
+      },
+      {
+        "type": "Bug",
+        "color": "#a8b820"
+      }
+    ]
+  },
+  "874": {
+    "name": "Stonjourner",
+    "rarity": "",
+    "baseStamina": 225,
+    "baseAttack": 222,
+    "baseDefense": 182,
+    "types": [
+      {
+        "type": "Rock",
+        "color": "#b8a038"
+      }
+    ]
+  },
+  "875": {
+    "name": "Eiscue",
+    "rarity": "",
+    "baseStamina": 181,
+    "baseAttack": 148,
+    "baseDefense": 195,
+    "types": [
+      {
+        "type": "Ice",
+        "color": "#98d8d8"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Ice",
+        "protoform": "2540",
+        "assetsform": "00",
+        "baseStamina": 181,
+        "baseAttack": 148,
+        "baseDefense": 195,
+        "formtypes": [
+          {
+            "type": "Ice",
+            "color": "#98d8d8"
+          }
+        ]
+      },
+      {
+        "nameform": "Noice",
+        "protoform": "2541",
+        "assetsform": "00",
+        "baseStamina": 181,
+        "baseAttack": 173,
+        "baseDefense": 139,
+        "formtypes": [
+          {
+            "type": "Ice",
+            "color": "#98d8d8"
+          }
+        ]
+      }
+    ]
+  },
+  "876": {
+    "name": "Indeedee",
+    "rarity": "",
+    "baseStamina": 155,
+    "baseAttack": 208,
+    "baseDefense": 166,
+    "types": [
+      {
+        "type": "Psychic",
+        "color": "#f85888"
+      },
+      {
+        "type": "Normal",
+        "color": "#8a8a59"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Female",
+        "protoform": "2543",
+        "assetsform": "00",
+        "baseStamina": 172,
+        "baseAttack": 184,
+        "baseDefense": 184,
+        "formtypes": [
+          {
+            "type": "Psychic",
+            "color": "#f85888"
+          },
+          {
+            "type": "Normal",
+            "color": "#8a8a59"
+          }
+        ]
+      },
+      {
+        "nameform": "Male",
+        "protoform": "2542",
+        "assetsform": "00",
+        "baseStamina": 155,
+        "baseAttack": 208,
+        "baseDefense": 166,
+        "formtypes": [
+          {
+            "type": "Psychic",
+            "color": "#f85888"
+          },
+          {
+            "type": "Normal",
+            "color": "#8a8a59"
+          }
+        ]
+      }
+    ]
+  },
+  "877": {
+    "name": "Morpeko",
+    "rarity": "",
+    "baseStamina": 151,
+    "baseAttack": 192,
+    "baseDefense": 121,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      },
+      {
+        "type": "Dark",
+        "color": "#707070"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Full belly",
+        "protoform": "2544",
+        "assetsform": "00",
+        "baseStamina": 151,
+        "baseAttack": 192,
+        "baseDefense": 121,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          },
+          {
+            "type": "Dark",
+            "color": "#707070"
+          }
+        ]
+      },
+      {
+        "nameform": "Hangry",
+        "protoform": "2545",
+        "assetsform": "00",
+        "baseStamina": 151,
+        "baseAttack": 192,
+        "baseDefense": 121,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          },
+          {
+            "type": "Dark",
+            "color": "#707070"
+          }
+        ]
+      }
+    ]
+  },
+  "878": {
+    "name": "Cufant",
+    "rarity": "",
+    "baseStamina": 176,
+    "baseAttack": 140,
+    "baseDefense": 91,
+    "types": [
+      {
+        "type": "Steel",
+        "color": "#b8b8d0"
+      }
+    ]
+  },
+  "879": {
+    "name": "Copperajah",
+    "rarity": "",
+    "baseStamina": 263,
+    "baseAttack": 226,
+    "baseDefense": 126,
+    "types": [
+      {
+        "type": "Steel",
+        "color": "#b8b8d0"
+      }
+    ]
+  },
+  "880": {
+    "name": "Dracozolt",
+    "rarity": "",
+    "baseStamina": 207,
+    "baseAttack": 195,
+    "baseDefense": 165,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      },
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      }
+    ]
+  },
+  "881": {
+    "name": "Arctozolt",
+    "rarity": "",
+    "baseStamina": 207,
+    "baseAttack": 190,
+    "baseDefense": 166,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      },
+      {
+        "type": "Ice",
+        "color": "#98d8d8"
+      }
+    ]
+  },
+  "882": {
+    "name": "Dracovish",
+    "rarity": "",
+    "baseStamina": 207,
+    "baseAttack": 175,
+    "baseDefense": 185,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      },
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      }
+    ]
+  },
+  "883": {
+    "name": "Arctovish",
+    "rarity": "",
+    "baseStamina": 207,
+    "baseAttack": 171,
+    "baseDefense": 185,
+    "types": [
+      {
+        "type": "Water",
+        "color": "#6890f0"
+      },
+      {
+        "type": "Ice",
+        "color": "#98d8d8"
+      }
+    ]
+  },
+  "884": {
+    "name": "Duraludon",
+    "rarity": "",
+    "baseStamina": 172,
+    "baseAttack": 239,
+    "baseDefense": 185,
+    "types": [
+      {
+        "type": "Steel",
+        "color": "#b8b8d0"
+      },
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      }
+    ]
+  },
+  "885": {
+    "name": "Dreepy",
+    "rarity": "",
+    "baseStamina": 99,
+    "baseAttack": 117,
+    "baseDefense": 61,
+    "types": [
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      },
+      {
+        "type": "Ghost",
+        "color": "#705898"
+      }
+    ]
+  },
+  "886": {
+    "name": "Drakloak",
+    "rarity": "",
+    "baseStamina": 169,
+    "baseAttack": 163,
+    "baseDefense": 105,
+    "types": [
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      },
+      {
+        "type": "Ghost",
+        "color": "#705898"
+      }
+    ]
+  },
+  "887": {
+    "name": "Dragapult",
+    "rarity": "",
+    "baseStamina": 204,
+    "baseAttack": 266,
+    "baseDefense": 170,
+    "types": [
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      },
+      {
+        "type": "Ghost",
+        "color": "#705898"
+      }
+    ]
+  },
+  "888": {
+    "name": "Zacian",
+    "rarity": "",
+    "baseStamina": 192,
+    "baseAttack": 254,
+    "baseDefense": 236,
+    "types": [
+      {
+        "type": "Fairy",
+        "color": "#e898e8"
+      },
+      {
+        "type": "Steel",
+        "color": "#b8b8d0"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Crowned sword",
+        "protoform": "2576",
+        "assetsform": "00",
+        "baseStamina": 192,
+        "baseAttack": 332,
+        "baseDefense": 240,
+        "formtypes": [
+          {
+            "type": "Fairy",
+            "color": "#e898e8"
+          },
+          {
+            "type": "Steel",
+            "color": "#b8b8d0"
+          }
+        ]
+      },
+      {
+        "nameform": "Hero",
+        "protoform": "2577",
+        "assetsform": "00",
+        "baseStamina": 192,
+        "baseAttack": 254,
+        "baseDefense": 236,
+        "formtypes": [
+          {
+            "type": "Fairy",
+            "color": "#e898e8"
+          }
+        ]
+      }
+    ]
+  },
+  "889": {
+    "name": "Zamazenta",
+    "rarity": "",
+    "baseStamina": 192,
+    "baseAttack": 254,
+    "baseDefense": 236,
+    "types": [
+      {
+        "type": "Fighting",
+        "color": "#c03028"
+      },
+      {
+        "type": "Steel",
+        "color": "#b8b8d0"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Crowned shield",
+        "protoform": "2578",
+        "assetsform": "00",
+        "baseStamina": 192,
+        "baseAttack": 250,
+        "baseDefense": 292,
+        "formtypes": [
+          {
+            "type": "Fighting",
+            "color": "#c03028"
+          },
+          {
+            "type": "Steel",
+            "color": "#b8b8d0"
+          }
+        ]
+      },
+      {
+        "nameform": "Hero",
+        "protoform": "2579",
+        "assetsform": "00",
+        "baseStamina": 192,
+        "baseAttack": 254,
+        "baseDefense": 236,
+        "formtypes": [
+          {
+            "type": "Fighting",
+            "color": "#c03028"
+          }
+        ]
+      }
+    ]
+  },
+  "890": {
+    "name": "Eternatus",
+    "rarity": "",
+    "baseStamina": 268,
+    "baseAttack": 278,
+    "baseDefense": 192,
+    "types": [
+      {
+        "type": "Poison",
+        "color": "#a040a0"
+      },
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Eternamax",
+        "protoform": "2580",
+        "assetsform": "00",
+        "baseStamina": 452,
+        "baseAttack": 251,
+        "baseDefense": 505,
+        "formtypes": [
+          {
+            "type": "Poison",
+            "color": "#a040a0"
+          },
+          {
+            "type": "Dragon",
+            "color": "#7038f8"
+          }
+        ]
+      },
+      {
+        "nameform": "Normal",
+        "protoform": "2581",
+        "assetsform": "00",
+        "baseStamina": 268,
+        "baseAttack": 278,
+        "baseDefense": 192,
+        "formtypes": [
+          {
+            "type": "Poison",
+            "color": "#a040a0"
+          },
+          {
+            "type": "Dragon",
+            "color": "#7038f8"
+          }
+        ]
+      }
+    ]
+  },
+  "891": {
+    "name": "Kubfu",
+    "rarity": "",
+    "baseStamina": 155,
+    "baseAttack": 170,
+    "baseDefense": 112,
+    "types": [
+      {
+        "type": "Fighting",
+        "color": "#c03028"
+      }
+    ]
+  },
+  "892": {
+    "name": "Urshifu",
+    "rarity": "",
+    "baseStamina": 205,
+    "baseAttack": 231,
+    "baseDefense": 162,
+    "types": [
+      {
+        "type": "Fighting",
+        "color": "#c03028"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Rapid strike",
+        "protoform": "2724",
+        "assetsform": "00",
+        "baseStamina": 205,
+        "baseAttack": 231,
+        "baseDefense": 162,
+        "formtypes": [
+          {
+            "type": "Fighting",
+            "color": "#c03028"
+          },
+          {
+            "type": "Water",
+            "color": "#6890f0"
+          }
+        ]
+      },
+      {
+        "nameform": "Single strike",
+        "protoform": "2723",
+        "assetsform": "00",
+        "baseStamina": 205,
+        "baseAttack": 231,
+        "baseDefense": 162,
+        "formtypes": [
+          {
+            "type": "Fighting",
+            "color": "#c03028"
+          },
+          {
+            "type": "Dark",
+            "color": "#707070"
+          }
+        ]
+      }
+    ]
+  },
+  "893": {
+    "name": "Zarude",
+    "rarity": "",
+    "baseStamina": 233,
+    "baseAttack": 242,
+    "baseDefense": 215,
+    "types": [
+      {
+        "type": "Dark",
+        "color": "#707070"
+      },
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      }
+    ]
+  },
+  "894": {
+    "name": "Regieleki",
+    "rarity": "",
+    "baseStamina": 173,
+    "baseAttack": 228,
+    "baseDefense": 114,
+    "types": [
+      {
+        "type": "Electric",
+        "color": "#f8d030"
+      }
+    ]
+  },
+  "895": {
+    "name": "Regidrago",
+    "rarity": "",
+    "baseStamina": 364,
+    "baseAttack": 184,
+    "baseDefense": 92,
+    "types": [
+      {
+        "type": "Dragon",
+        "color": "#7038f8"
+      }
+    ]
+  },
+  "896": {
+    "name": "Glastrier",
+    "rarity": "",
+    "baseStamina": 205,
+    "baseAttack": 224,
+    "baseDefense": 203,
+    "types": [
+      {
+        "type": "Ice",
+        "color": "#98d8d8"
+      }
+    ]
+  },
+  "897": {
+    "name": "Spectrier",
+    "rarity": "",
+    "baseStamina": 205,
+    "baseAttack": 273,
+    "baseDefense": 146,
+    "types": [
+      {
+        "type": "Ghost",
+        "color": "#705898"
+      }
+    ]
+  },
+  "898": {
+    "name": "Calyrex",
+    "rarity": "",
+    "baseStamina": 205,
+    "baseAttack": 147,
+    "baseDefense": 147,
+    "types": [
+      {
+        "type": "Psychic",
+        "color": "#f85888"
+      },
+      {
+        "type": "Grass",
+        "color": "#78c850"
+      }
+    ],
+    "forms": [
+      {
+        "nameform": "Ice rider",
+        "protoform": "2726",
+        "assetsform": "00",
+        "baseStamina": 205,
+        "baseAttack": 268,
+        "baseDefense": 246,
+        "formtypes": [
+          {
+            "type": "Psychic",
+            "color": "#f85888"
+          },
+          {
+            "type": "Ice",
+            "color": "#98d8d8"
+          }
+        ]
+      },
+      {
+        "nameform": "Normal",
+        "protoform": "2725",
+        "assetsform": "00",
+        "baseStamina": 205,
+        "baseAttack": 147,
+        "baseDefense": 147,
+        "formtypes": [
+          {
+            "type": "Psychic",
+            "color": "#f85888"
+          },
+          {
+            "type": "Grass",
+            "color": "#78c850"
+          }
+        ]
+      },
+      {
+        "nameform": "Shadow rider",
+        "protoform": "2727",
+        "assetsform": "00",
+        "baseStamina": 205,
+        "baseAttack": 324,
+        "baseDefense": 194,
+        "formtypes": [
+          {
+            "type": "Psychic",
+            "color": "#f85888"
           },
           {
             "type": "Ghost",
