@@ -1763,7 +1763,7 @@
         ]
       },
       {
-        "nameform": "Adventure hat 2020",
+        "nameform": "Adventure Hat 2020",
         "protoform": "2669",
         "assetsform": "00",
         "baseStamina": 111,
@@ -14047,7 +14047,7 @@
         ]
       },
       {
-        "nameform": "Exclamation point",
+        "nameform": "Exclamation Point",
         "protoform": "27",
         "assetsform": "00",
         "baseStamina": 134,
@@ -14061,7 +14061,7 @@
         ]
       },
       {
-        "nameform": "Question mark",
+        "nameform": "Question Mark",
         "protoform": "28",
         "assetsform": "00",
         "baseStamina": 134,
@@ -20710,7 +20710,7 @@
     ],
     "forms": [
       {
-        "nameform": "Costume 2020 deprecated",
+        "nameform": "Costume 2020 Deprecated",
         "protoform": "2666",
         "assetsform": "00",
         "baseStamina": 137,
@@ -28926,7 +28926,7 @@
         ]
       },
       {
-        "nameform": "East sea",
+        "nameform": "East Sea",
         "protoform": "97",
         "assetsform": "00",
         "baseStamina": 183,
@@ -28940,7 +28940,7 @@
         ]
       },
       {
-        "nameform": "West sea",
+        "nameform": "West Sea",
         "protoform": "96",
         "assetsform": "00",
         "baseStamina": 183,
@@ -29027,7 +29027,7 @@
         ]
       },
       {
-        "nameform": "East sea",
+        "nameform": "East Sea",
         "protoform": "99",
         "assetsform": "00",
         "baseStamina": 244,
@@ -29045,7 +29045,7 @@
         ]
       },
       {
-        "nameform": "West sea",
+        "nameform": "West Sea",
         "protoform": "98",
         "assetsform": "00",
         "baseStamina": 244,
@@ -37472,7 +37472,7 @@
     ],
     "forms": [
       {
-        "nameform": "Blue striped",
+        "nameform": "Blue Striped",
         "protoform": "137",
         "assetsform": "00",
         "baseStamina": 172,
@@ -37486,7 +37486,7 @@
         ]
       },
       {
-        "nameform": "Red striped",
+        "nameform": "Red Striped",
         "protoform": "136",
         "assetsform": "00",
         "baseStamina": 172,
@@ -37805,7 +37805,7 @@
     ],
     "forms": [
       {
-        "nameform": "Galarian standard",
+        "nameform": "Galarian Standard",
         "protoform": "2342",
         "assetsform": "00",
         "baseStamina": 233,
@@ -37819,7 +37819,7 @@
         ]
       },
       {
-        "nameform": "Galarian zen",
+        "nameform": "Galarian Zen",
         "protoform": "2343",
         "assetsform": "00",
         "baseStamina": 233,
@@ -44476,7 +44476,7 @@
         ]
       },
       {
-        "nameform": "High plains",
+        "nameform": "High Plains",
         "protoform": "2599",
         "assetsform": "00",
         "baseStamina": 190,
@@ -44494,7 +44494,7 @@
         ]
       },
       {
-        "nameform": "Icy snow",
+        "nameform": "Icy Snow",
         "protoform": "2600",
         "assetsform": "00",
         "baseStamina": 190,
@@ -45214,7 +45214,7 @@
         ]
       },
       {
-        "nameform": "La reine",
+        "nameform": "La Reine",
         "protoform": "2636",
         "assetsform": "00",
         "baseStamina": 181,
@@ -46186,7 +46186,7 @@
     ],
     "forms": [
       {
-        "nameform": "Ten percent",
+        "nameform": "Ten Percent",
         "protoform": "2591",
         "assetsform": "00",
         "baseStamina": 0,
@@ -46204,7 +46204,7 @@
         ]
       },
       {
-        "nameform": "Fifty percent",
+        "nameform": "Fifty Percent",
         "protoform": "2592",
         "assetsform": "00",
         "baseStamina": 0,
@@ -46895,9 +46895,9 @@
   "842": {
     "name": "Appletun",
     "rarity": "",
-    "baseStamina": 172,
-    "baseAttack": 214,
-    "baseDefense": 144,
+    "baseStamina": 242,
+    "baseAttack": 178,
+    "baseDefense": 146,
     "types": [
       {
         "type": "Grass",
@@ -47031,7 +47031,7 @@
         ]
       },
       {
-        "nameform": "Low key",
+        "nameform": "Low Key",
         "protoform": "2463",
         "assetsform": "00",
         "baseStamina": 181,
@@ -47478,7 +47478,7 @@
     ]
   },
   "865": {
-    "name": "Sirfetchd",
+    "name": "Sirfetch’d",
     "rarity": "",
     "baseStamina": 158,
     "baseAttack": 248,
@@ -47895,7 +47895,7 @@
     ],
     "forms": [
       {
-        "nameform": "Full belly",
+        "nameform": "Full Belly",
         "protoform": "2544",
         "assetsform": "00",
         "baseStamina": 151,
@@ -48112,7 +48112,7 @@
     ],
     "forms": [
       {
-        "nameform": "Crowned sword",
+        "nameform": "Crowned Sword",
         "protoform": "2576",
         "assetsform": "00",
         "baseStamina": 192,
@@ -48163,7 +48163,7 @@
     ],
     "forms": [
       {
-        "nameform": "Crowned shield",
+        "nameform": "Crowned Shield",
         "protoform": "2578",
         "assetsform": "00",
         "baseStamina": 192,
@@ -48267,9 +48267,9 @@
   "892": {
     "name": "Urshifu",
     "rarity": "",
-    "baseStamina": 205,
-    "baseAttack": 231,
-    "baseDefense": 162,
+    "baseStamina": 225,
+    "baseAttack": 254,
+    "baseDefense": 177,
     "types": [
       {
         "type": "Fighting",
@@ -48278,12 +48278,12 @@
     ],
     "forms": [
       {
-        "nameform": "Rapid strike",
+        "nameform": "Rapid Strike",
         "protoform": "2724",
         "assetsform": "00",
-        "baseStamina": 205,
-        "baseAttack": 231,
-        "baseDefense": 162,
+        "baseStamina": 225,
+        "baseAttack": 254,
+        "baseDefense": 177,
         "formtypes": [
           {
             "type": "Fighting",
@@ -48296,12 +48296,12 @@
         ]
       },
       {
-        "nameform": "Single strike",
+        "nameform": "Single Strike",
         "protoform": "2723",
         "assetsform": "00",
-        "baseStamina": 205,
-        "baseAttack": 231,
-        "baseDefense": 162,
+        "baseStamina": 225,
+        "baseAttack": 254,
+        "baseDefense": 177,
         "formtypes": [
           {
             "type": "Fighting",
@@ -48335,9 +48335,9 @@
   "894": {
     "name": "Regieleki",
     "rarity": "",
-    "baseStamina": 173,
-    "baseAttack": 228,
-    "baseDefense": 114,
+    "baseStamina": 190,
+    "baseAttack": 250,
+    "baseDefense": 125,
     "types": [
       {
         "type": "Electric",
@@ -48348,9 +48348,9 @@
   "895": {
     "name": "Regidrago",
     "rarity": "",
-    "baseStamina": 364,
-    "baseAttack": 184,
-    "baseDefense": 92,
+    "baseStamina": 400,
+    "baseAttack": 202,
+    "baseDefense": 101,
     "types": [
       {
         "type": "Dragon",
@@ -48361,9 +48361,9 @@
   "896": {
     "name": "Glastrier",
     "rarity": "",
-    "baseStamina": 205,
-    "baseAttack": 224,
-    "baseDefense": 203,
+    "baseStamina": 225,
+    "baseAttack": 246,
+    "baseDefense": 223,
     "types": [
       {
         "type": "Ice",
@@ -48387,9 +48387,9 @@
   "898": {
     "name": "Calyrex",
     "rarity": "",
-    "baseStamina": 205,
-    "baseAttack": 147,
-    "baseDefense": 147,
+    "baseStamina": 225,
+    "baseAttack": 162,
+    "baseDefense": 162,
     "types": [
       {
         "type": "Psychic",
@@ -48402,7 +48402,7 @@
     ],
     "forms": [
       {
-        "nameform": "Ice rider",
+        "nameform": "Ice Rider",
         "protoform": "2726",
         "assetsform": "00",
         "baseStamina": 205,
@@ -48423,9 +48423,9 @@
         "nameform": "Normal",
         "protoform": "2725",
         "assetsform": "00",
-        "baseStamina": 205,
-        "baseAttack": 147,
-        "baseDefense": 147,
+        "baseStamina": 225,
+        "baseAttack": 162,
+        "baseDefense": 162,
         "formtypes": [
           {
             "type": "Psychic",
@@ -48438,7 +48438,7 @@
         ]
       },
       {
-        "nameform": "Shadow rider",
+        "nameform": "Shadow Rider",
         "protoform": "2727",
         "assetsform": "00",
         "baseStamina": 205,
