@@ -1903,7 +1903,7 @@
         ]
       },
       {
-        "nameform": "Flying 5th Anniv",
+        "nameform": "5th Anniversary",
         "protoform": "2678",
         "assetsform": "00",
         "baseStamina": 111,
@@ -10376,7 +10376,7 @@
     ],
     "forms": [
       {
-        "nameform": "A",
+        "nameform": "Armored",
         "protoform": "133",
         "assetsform": "00",
         "baseStamina": 214,
@@ -13609,6 +13609,24 @@
             "color": "#f85888"
           }
         ]
+      },
+      {
+        "nameform": "2022",
+        "protoform": "2734",
+        "assetsform": "00",
+        "baseStamina": 216,
+        "baseAttack": 177,
+        "baseDefense": 180,
+        "formtypes": [
+          {
+            "type": "Psychic",
+            "color": "#f85888"
+          },
+          {
+            "type": "Water",
+            "color": "#6890f0"
+          }
+        ]
       }
     ]
   },
@@ -14047,7 +14065,7 @@
         ]
       },
       {
-        "nameform": "Exclamation Point",
+        "nameform": "!",
         "protoform": "27",
         "assetsform": "00",
         "baseStamina": 134,
@@ -14061,7 +14079,7 @@
         ]
       },
       {
-        "nameform": "Question Mark",
+        "nameform": "?",
         "protoform": "28",
         "assetsform": "00",
         "baseStamina": 134,
@@ -16837,6 +16855,20 @@
             "color": "#f8d030"
           }
         ]
+      },
+      {
+        "nameform": "S",
+        "protoform": "2731",
+        "assetsform": "00",
+        "baseStamina": 207,
+        "baseAttack": 241,
+        "baseDefense": 195,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          }
+        ]
       }
     ]
   },
@@ -16894,6 +16926,20 @@
             "color": "#f08030"
           }
         ]
+      },
+      {
+        "nameform": "S",
+        "protoform": "2732",
+        "assetsform": "00",
+        "baseStamina": 251,
+        "baseAttack": 235,
+        "baseDefense": 171,
+        "formtypes": [
+          {
+            "type": "Fire",
+            "color": "#f08030"
+          }
+        ]
       }
     ]
   },
@@ -16941,6 +16987,20 @@
       {
         "nameform": "Purified",
         "protoform": "1339",
+        "assetsform": "00",
+        "baseStamina": 225,
+        "baseAttack": 180,
+        "baseDefense": 235,
+        "formtypes": [
+          {
+            "type": "Water",
+            "color": "#6890f0"
+          }
+        ]
+      },
+      {
+        "nameform": "S",
+        "protoform": "2733",
         "assetsform": "00",
         "baseStamina": 225,
         "baseAttack": 180,
@@ -17243,6 +17303,24 @@
             "color": "#f85888"
           }
         ]
+      },
+      {
+        "nameform": "S",
+        "protoform": "2729",
+        "assetsform": "00",
+        "baseStamina": 235,
+        "baseAttack": 193,
+        "baseDefense": 310,
+        "formtypes": [
+          {
+            "type": "Flying",
+            "color": "#a890f0"
+          },
+          {
+            "type": "Psychic",
+            "color": "#f85888"
+          }
+        ]
       }
     ]
   },
@@ -17302,6 +17380,24 @@
       {
         "nameform": "Purified",
         "protoform": "1345",
+        "assetsform": "00",
+        "baseStamina": 214,
+        "baseAttack": 239,
+        "baseDefense": 244,
+        "formtypes": [
+          {
+            "type": "Fire",
+            "color": "#f08030"
+          },
+          {
+            "type": "Flying",
+            "color": "#a890f0"
+          }
+        ]
+      },
+      {
+        "nameform": "S",
+        "protoform": "2730",
         "assetsform": "00",
         "baseStamina": 214,
         "baseAttack": 239,
