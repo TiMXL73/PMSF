@@ -2353,7 +2353,7 @@
   },
   "356": {
     "name": "Double Kick",
-    "type": "",
+    "type": "Fighting",
     "damage": 0,
     "duration": 0,
     "energy": 0,
@@ -2361,7 +2361,7 @@
   },
   "357": {
     "name": "Magical Leaf",
-    "type": "",
+    "type": "Grass",
     "damage": 0,
     "duration": 0,
     "energy": 0,
@@ -2369,7 +2369,7 @@
   },
   "358": {
     "name": "Sacred Fire",
-    "type": "",
+    "type": "Fire",
     "damage": 0,
     "duration": 0,
     "energy": 0,
@@ -2378,7 +2378,39 @@
   "359": {
     "name": "Icicle Spear",
     "type": "Ice",
-    "damage": 60,
+    "damage": 0,
+    "duration": 0,
+    "energy": 0,
+    "dps": 0
+  },
+  "360": {
+    "name": "Aeroblast Plus",
+    "type": "",
+    "damage": 0,
+    "duration": 0,
+    "energy": 0,
+    "dps": 0
+  },
+  "361": {
+    "name": "Aeroblast Plus Plus",
+    "type": "",
+    "damage": 0,
+    "duration": 0,
+    "energy": 0,
+    "dps": 0
+  },
+  "362": {
+    "name": "Sacred Fire Plus",
+    "type": "",
+    "damage": 0,
+    "duration": 0,
+    "energy": 0,
+    "dps": 0
+  },
+  "363": {
+    "name": "Sacred Fire Plus Plus",
+    "type": "",
+    "damage": 0,
     "duration": 0,
     "energy": 0,
     "dps": 0
