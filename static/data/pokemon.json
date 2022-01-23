@@ -7154,6 +7154,20 @@
             "color": "#f8d030"
           }
         ]
+      },
+      {
+        "nameform": "Hisuian",
+        "protoform": "2728",
+        "assetsform": "00",
+        "baseStamina": 120,
+        "baseAttack": 109,
+        "baseDefense": 111,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          }
+        ]
       }
     ]
   },
