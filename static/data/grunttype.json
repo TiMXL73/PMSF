@@ -369,7 +369,19 @@
   },
   "39": {
     "type": "Water",
-    "grunt": "Male"
+    "grunt": "Male",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "129_00"
+      ],
+      "second": [
+        "129_00"
+      ],
+      "third": [
+        "129_00"
+      ]
+    }
   },
   "40": {
     "type": "Player Team Leader",
