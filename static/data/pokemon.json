@@ -7166,6 +7166,10 @@
           {
             "type": "Electric",
             "color": "#f8d030"
+          },
+          {
+            "type": "Grass",
+            "color": "#78c850"
           }
         ]
       }
@@ -7215,6 +7219,20 @@
       {
         "nameform": "Purified",
         "protoform": "1052",
+        "assetsform": "00",
+        "baseStamina": 155,
+        "baseAttack": 173,
+        "baseDefense": 173,
+        "formtypes": [
+          {
+            "type": "Electric",
+            "color": "#f8d030"
+          }
+        ]
+      },
+      {
+        "nameform": "Hisuian",
+        "protoform": "2735",
         "assetsform": "00",
         "baseStamina": 155,
         "baseAttack": 173,
