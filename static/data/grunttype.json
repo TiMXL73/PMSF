@@ -60,7 +60,7 @@
   "7": {
     "type": "Bug",
     "grunt": "Male",
-    "second_reward": "false",
+    "second_reward": "true",
     "encounters": {
       "first": [
         "013_00",
@@ -291,11 +291,11 @@
     "grunt": "Male"
   },
   "28": {
-    "type": "Metal",
+    "type": "Steel",
     "grunt": "Female"
   },
   "29": {
-    "type": "Metal",
+    "type": "Steel",
     "grunt": "Male"
   },
   "30": {
@@ -661,11 +661,11 @@
     "grunt": "Male"
   },
   "75": {
-    "type": "Metal Balloon",
+    "type": "Steel Balloon",
     "grunt": "Female"
   },
   "76": {
-    "type": "Metal Balloon",
+    "type": "Steel Balloon",
     "grunt": "Male"
   },
   "77": {
@@ -779,5 +779,45 @@
   "513": {
     "type": "Event Spark",
     "grunt": "Male"
+  },
+  "514": {
+    "type": "Event NPC 11",
+    "grunt": ""
+  },
+  "515": {
+    "type": "Event NPC 12",
+    "grunt": ""
+  },
+  "516": {
+    "type": "Event NPC 13",
+    "grunt": ""
+  },
+  "517": {
+    "type": "Event NPC 14",
+    "grunt": ""
+  },
+  "518": {
+    "type": "Event NPC 15",
+    "grunt": ""
+  },
+  "519": {
+    "type": "Event NPC 16",
+    "grunt": ""
+  },
+  "520": {
+    "type": "Event NPC 17",
+    "grunt": ""
+  },
+  "521": {
+    "type": "Event NPC 18",
+    "grunt": ""
+  },
+  "522": {
+    "type": "Event NPC 19",
+    "grunt": ""
+  },
+  "523": {
+    "type": "Event NPC 20",
+    "grunt": ""
   }
 }
