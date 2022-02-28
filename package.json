@@ -64,7 +64,7 @@
     "leaflet.markercluster": "https://github.com/pmsf/Leaflet.markercluster/tarball/master",
     "long": "^3.2.0",
     "moment": "2.24.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^6.0.1",
     "phplint": "^1.7.4",
     "push.js": "^1.0.12"
   }
