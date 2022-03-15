@@ -188,7 +188,7 @@ var scanAreas = []
  <def> - defense as number
  <sta> - stamnia as number
  */
-var notifyIvTitle = '<pkm>, Level: <lv>, IV: <prc>% (<atk>/<def>/<sta>)'
+var notifyIvTitle = '<pkm> LV<lv> <prc>% (<atk>/<def>/<sta>)'
 var notifyNoIvTitle = '<pkm>'
 
 /*
