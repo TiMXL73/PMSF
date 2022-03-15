@@ -268,13 +268,12 @@ class RocketMap_MAD extends Stats
 
       $shinys = $db->query("
         SELECT
-          SUM(stats.is_shiny) AS shiny_count,
+          SUM(CASE WHEN p.encounter_id IN (SELECT t.encounter_id FROM trs_stats_detect_mon_raw t JOIN pokemon p ON p.encounter_id = t.encounter_id WHERE t.is_shiny > 0 AND p.disappear_time >= DATE_SUB(NOW(), INTERVAL 1 DAY)) THEN 1 ELSE 0 END) AS shiny_count,
           p.pokemon_id,
           p.form,
           p.costume,
-          COUNT(*) AS sample_size
+          COUNT(p.encounter_id) AS sample_size
         FROM pokemon p
-        JOIN trs_stats_detect_mon_raw stats ON stats.encounter_id = p.encounter_id
         WHERE 
           p.individual_attack IS NOT NULL AND
           p.disappear_time >= DATE_SUB(NOW(), INTERVAL 1 DAY)
