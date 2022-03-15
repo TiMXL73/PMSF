@@ -8,7 +8,7 @@
         }
         echo '<div class="pokemon-list-cont" id="pokemon-list-cont-' . $num . '">
         <input type="hidden" class="search-number" value="' . $num . '" />
-        <input type="text" class="search search-input" placeholder="' . i8ln("Search Name, ID & Type") . '" />
+        <input type="text" class="search search-input" onfocus="this.select();" placeholder="' . i8ln("Search Name, ID & Type") . '" />
         <div class="pokemon-list list d-flex flex-wrap align-items-center text-center">';
         foreach ($mons as $k => $pokemon) {
             $type = '';
@@ -66,7 +66,7 @@
         }
         echo '<div class="energy-list-cont" id="energy-list-cont-' . $num . '">
         <input type="hidden" class="search-number" value="' . $num . '" />
-        <input type="text" class="search search-input" placeholder="' . i8ln("Search Name, ID & Type") . '" />
+        <input type="text" class="search search-input" onfocus="this.select();" placeholder="' . i8ln("Search Name, ID & Type") . '" />
         <div class="energy-list list d-flex flex-wrap align-items-center text-center">';
         foreach ($mons as $k => $pokemon) {
             $type = '';
@@ -113,7 +113,7 @@
         }
         echo '<div class="candy-list-cont" id="candy-list-cont-' . $num . '">
         <input type="hidden" class="search-number" value="' . $num . '" />
-        <input type="text" class="search search-input" placeholder="' . i8ln("Search Name, ID & Type") . '" />
+        <input type="text" class="search search-input" onfocus="this.select();" placeholder="' . i8ln("Search Name, ID & Type") . '" />
         <div class="candy-list list d-flex flex-wrap align-items-center text-center">';
         foreach ($mons as $k => $pokemon) {
             $type = '';
