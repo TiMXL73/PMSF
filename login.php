@@ -43,7 +43,7 @@ if (isset($_GET['action'])) {
             $html .= '<link rel="stylesheet" href="static/dist/css/app.min.css">
         </head>
         <body>
-            <h2>' . $title . ' Login</h2>
+            <center><h2>' . $title . ' Login</h2></center>
             <div id="login-force" class="force-modal">
                 <form class="force-modal-content animate" action="/login?action=native" method="post">';
                     if (!empty($_GET['error'])) {
