@@ -25,6 +25,17 @@ class RDM extends Scanner
 
         global $noHighLevelData;
         if (!$noHighLevelData) {
+            $db_version = $db->get('metadata',['value'],['key'=>'DB_VERSION']);
+            if (intval($db_version['value']) < 80) {
+                $rdmpvp = ",
+                pvp_rankings_great_league,
+                pvp_rankings_ultra_league";
+            } else {
+                $rdmpvp = ",
+                json_extract(`pvp`,'$.great') AS pvp_rankings_great_league,
+                json_extract(`pvp`,'$.ultra') AS pvp_rankings_ultra_league";
+            }
+
             $select .= ",
             weight,
             size AS height,
@@ -37,7 +48,9 @@ class RDM extends Scanner
             level,
             capture_1 AS catch_rate_1,
             capture_2 AS catch_rate_2,
-            capture_3 AS catch_rate_3";
+            capture_3 AS catch_rate_3
+            $rdmpvp
+            ";
         }
 
         $conds[] = "lat > :swLat AND lon > :swLng AND lat < :neLat AND lon < :neLng AND expire_timestamp > :time";
@@ -125,6 +138,17 @@ class RDM extends Scanner
 
         global $noHighLevelData;
         if (!$noHighLevelData) {
+            $db_version = $db->get('metadata',['value'],['key'=>'DB_VERSION']);
+            if (intval($db_version['value']) < 80) {
+                $rdmpvp = ",
+                pvp_rankings_great_league,
+                pvp_rankings_ultra_league";
+            } else {
+                $rdmpvp = ",
+                json_extract(`pvp`,'$.great') AS pvp_rankings_great_league,
+                json_extract(`pvp`,'$.ultra') AS pvp_rankings_ultra_league";
+            }
+
             $select .= ",
             weight,
             size AS height,
@@ -137,7 +161,9 @@ class RDM extends Scanner
             level,
             capture_1 AS catch_rate_1,
             capture_2 AS catch_rate_2,
-            capture_3 AS catch_rate_3";
+            capture_3 AS catch_rate_3
+            $rdmpvp
+            ";
         }
 
         $conds[] = "lat > :swLat AND lon > :swLng AND lat < :neLat AND lon < :neLng AND expire_timestamp > :time";
@@ -457,6 +483,11 @@ class RDM extends Scanner
     public function query_stops($conds, $params)
     {
         global $db;
+        $db_version = $db->get('metadata',['value'],['key'=>'DB_VERSION']);
+        $rdmgrunts = "";
+        if (intval($db_version['value']) >= 81) {
+            $rdmgrunts = " LEFT JOIN (SELECT * FROM (SELECT `pokestop_id` AS pokestop_id_incident, `character` AS grunt_type, `expiration` AS incident_expire_timestamp FROM incident WHERE `expiration` > UNIX_TIMESTAMP() ORDER BY `character`) AS i_sorted GROUP BY i_sorted.`pokestop_id_incident`) AS i ON i.`pokestop_id_incident` = p.`id` ";
+        }
 
         $query = "SELECT id AS pokestop_id,
         lat AS latitude,
@@ -484,7 +515,8 @@ class RDM extends Scanner
         json_extract(json_extract(`quest_rewards`,'$[*].info.pokemon_id'),'$[0]') AS quest_energy_pokemon_id,
         json_extract(json_extract(`quest_rewards`,'$[*].info.form_id'),'$[0]') AS quest_pokemon_formid,
         json_extract(json_extract(`quest_rewards`,'$[*].info.shiny'),'$[0]') AS quest_pokemon_shiny
-        FROM pokestop
+        FROM pokestop p
+        $rdmgrunts
         WHERE :conditions";
 
         $query = str_replace(":conditions", join(" AND ", $conds), $query);
