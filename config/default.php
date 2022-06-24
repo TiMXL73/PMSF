@@ -152,10 +152,10 @@ $noWhatsappLink = true;
 $imgurCID = "";
 
 /* Counts */
-$numberOfPokemon = 898;
-$numberOfItem = 1600;
-$numberOfGrunt = 513;
-$numberOfEgg = 12;
+$numberOfPokemon = 905;
+$numberOfItem = 1602;
+$numberOfGrunt = 523;
+$numberOfEgg = 16;
 
 /* UserTimezone */
 $userTimezone = date_default_timezone_get();
