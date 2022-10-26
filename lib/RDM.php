@@ -486,7 +486,7 @@ class RDM extends Scanner
         $db_version = $db->get('metadata',['value'],['key'=>'DB_VERSION']);
         $rdmgrunts = "";
         if (intval($db_version['value']) >= 81) {
-            $rdmgrunts = " LEFT JOIN (SELECT * FROM (SELECT `pokestop_id` AS pokestop_id_incident, `character` AS grunt_type, `expiration` AS incident_expire_timestamp FROM incident WHERE `expiration` > UNIX_TIMESTAMP() ORDER BY `character`) AS i_sorted GROUP BY i_sorted.`pokestop_id_incident`) AS i ON i.`pokestop_id_incident` = p.`id` ";
+            $rdmgrunts = " LEFT JOIN (SELECT `pokestop_id` AS pokestop_id_incident, MIN(`character`) AS grunt_type, IF(MIN(`character`) IN (41,42,43,44), MAX(`expiration`), MIN(`expiration`)) AS incident_expire_timestamp FROM `incident` WHERE `expiration` > UNIX_TIMESTAMP() GROUP BY `pokestop_id_incident`) AS i ON i.`pokestop_id_incident` = p.`id` ";
         }
 
         $query = "SELECT id AS pokestop_id,
@@ -660,7 +660,7 @@ class RDM extends Scanner
         raid_battle_timestamp AS raid_start,
         updated AS last_scanned,
         raid_pokemon_id,
-        availble_slots AS slots_available,
+        available_slots AS slots_available,
         team_id,
         raid_level,
         raid_pokemon_move_1,
@@ -914,7 +914,12 @@ class RDM extends Scanner
                 $data[] = $pokestop['quest_item_id'];
             }
         } elseif ($type === 'gruntlist') {
-            $pokestops = $db->query("SELECT distinct grunt_type FROM pokestop WHERE grunt_type > 0 AND incident_expire_timestamp > UNIX_TIMESTAMP() order by grunt_type;")->fetchAll(\PDO::FETCH_ASSOC);
+            $db_version = $db->get('metadata',['value'],['key'=>'DB_VERSION']);
+            if (intval($db_version['value']) >= 81) {
+                $pokestops = $db->query("SELECT DISTINCT `character` AS grunt_type FROM `incident` WHERE `character` > 0 AND `expiration` > UNIX_TIMESTAMP() ORDER BY `character`;")->fetchAll(\PDO::FETCH_ASSOC);
+            } else {
+                $pokestops = $db->query("SELECT distinct grunt_type FROM pokestop WHERE grunt_type > 0 AND incident_expire_timestamp > UNIX_TIMESTAMP() order by grunt_type;")->fetchAll(\PDO::FETCH_ASSOC);
+            }
             $data = array();
             foreach ($pokestops as $pokestop) {
                 $data[] = $pokestop['grunt_type'];
